@@ -1,3 +1,4 @@
+// se importa el modulo de mongoose
 const mongoose = require('mongoose');
 require('dotenv').config();
 
